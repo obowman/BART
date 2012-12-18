@@ -10,7 +10,7 @@ planetary atmospheres.  It is being developed by:
 Joseph Harrington
 Jasmina Blecic
 Patricio Cubillos
-Oliver Bowman (test)
+Oliver Bowman (test, this is a)
 
 With support from:
 
